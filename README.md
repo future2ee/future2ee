@@ -1,5 +1,5 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=6994CDEE&text=&animation=twinkling&height=80)
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Alkatra&weight=500&size=45&duration=3500&pause=3&color=6994CDEE&center=false&vCenter=false&multiline=true&repeat=true&width=1000&height=100&lines=Welcome+to+MIRAE's+GitHub!👋)](https://git.io/typing-svg)
+![header](https://capsule-render.vercel.app/api?type=waving&color=F78182&text=&animation=twinkling&height=80)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Alkatra&weight=500&size=45&duration=3500&pause=3&color=F78182&center=false&vCenter=false&multiline=true&repeat=true&width=1000&height=100&lines=Welcome+to+MIRAE's+GitHub!👋)](https://git.io/typing-svg)
  
 <div align="left">
 
@@ -9,11 +9,13 @@
 
 ![mirae's GitHub stats](https://github-readme-stats.vercel.app/api?username=future2ee&show_icons=true&theme=dracula)
 
-<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=future2ee&layout=pie)](https://github.com/anuraghazra/github-readme-stats)-->
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=future2ee&layout=compact)
 
 <br>
 
-## 💻 DEV's log 💻
+## 💻 MIRAE's log 💻
 <div style="display:flex; flex-direction:row;">
     <a href="https://velog.io/@mslcc458">
         <img src="https://img.shields.io/badge/Velog-20c997?style=for-the-badge&logo=Vimeo&logoColor=white"> 
