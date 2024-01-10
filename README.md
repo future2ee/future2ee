@@ -7,9 +7,10 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ffuture2ee&count_bg=%23FF7892&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-[![bi-sz's GitHub stats](https://github-readme-stats.vercel.app/api?username=future2ee&include_all_commits=true&show_icons=true&theme=dracula)](https://github.com/future2ee/github-readme-stats)
+![mirae's GitHub stats](https://github-readme-stats.vercel.app/api?username=future2ee&show_icons=true&theme=dracula)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=future2ee&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=future2ee&layout=pie)](https://github.com/anuraghazra/github-readme-stats)-->
+
 <br>
 
 ## 💻 DEV's log 💻
