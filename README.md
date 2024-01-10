@@ -9,8 +9,7 @@
 
 [![bi-sz's GitHub stats](https://github-readme-stats.vercel.app/api?username=future2ee&include_all_commits=true&show_icons=true&theme=dracula)](https://github.com/future2ee/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=future2ee)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=future2ee&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
 <br>
 
 ## 💻 DEV's log 💻
