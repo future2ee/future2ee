@@ -14,7 +14,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=future2ee&layout=compact)
 
 <br>
-
+<!--
 ## 💻 MIRAE's log 💻
 <div style="display:flex; flex-direction:row;">
     <a href="https://velog.io/@mslcc458">
@@ -27,6 +27,7 @@
  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=mslcc458)](https://github.com/mslcc458/velog-readme-stats)
 
 </div><br>
+-->
 
 ## 📞 Contact 📞
 <div style="display:flex; flex-direction:row;">
